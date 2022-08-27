@@ -1,0 +1,1 @@
+(AND disease (JOIN disease.has_symptom abdominal_cramps=Q3002092))
